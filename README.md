@@ -1,0 +1,1 @@
+##### this is a lineageOS version, for now exclusive for the Asus-X00DDA
